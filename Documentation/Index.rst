@@ -14,8 +14,7 @@ TYPO3 Documentation Starter  <- Change this to your title!
 :Author:          Danijela Grgic <spacedani@gmail.com>
 :Buildinfo:       `Make folder <_make>`_ (if on docs.typo3.org)
 :Copyright:       2013 ...
-:Description:     This is a recommended template to start any ReST based
-                  documentation for TYPO3 (ReST = ReStructuredText)
+:Description:     This is the documentation for TYPO3 workspaces for TYPO3 v4.x
 :Email:           ...
 :License:         `CC BY-SA 3.0 <http://creativecommons.org/licenses/by-sa/3.0/>`_
 :Rendered:        |today|

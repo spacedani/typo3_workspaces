@@ -6,7 +6,7 @@
 .. include:: ../Includes.txt
 
 =========================
-Topic A
+Einführung
 =========================
 
-Your text.
+Die TYPO3 Workspaces.

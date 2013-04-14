@@ -79,15 +79,8 @@ or remove it - as you like.))
 
 
 
-Description
-===========
-
-What this is all about ...
-
-((This "Description" chapter is just a model. Keep it, change it, 
-or remove it - as you like.))
-
-
+Inhaltsverzeichnis
+==================
 
 Next pages:
 

@@ -15,3 +15,5 @@ Wie der Name “LIVE-Workspace” bereits vermuten lässt, ist dieser per defaul
    :alt:    Auswahl des Workspaces
    :class:  screenshot-detail
    :align:  left
+   :height: 100 
+   :width: 200

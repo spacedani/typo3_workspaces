@@ -9,4 +9,7 @@
 Spezialfälle
 =========================
 
-Your text.
+- Überschneidung von Workspaces
+- Workspaces pro Sprache
+- DAM und Indexierung von Dateien
+- 

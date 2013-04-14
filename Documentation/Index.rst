@@ -31,7 +31,7 @@ Inhaltsverzeichnis
    :titlesonly:
    
    Introduction/Index
-   Chapter2/Index
+   General/Index
    Chapter3/Index
    Chapter4/Index
    FinalPages/*

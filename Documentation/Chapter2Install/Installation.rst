@@ -16,3 +16,4 @@ Grundsätzlich sind die workspaces automatisch mit dem Core installiert. Sollte 
    :class:  screenshot-detail
    :align:  left
 
+Sobald die workspaces installiert sind, ist links innerhalb der Modulen auch der Punkt "workspaces" zu sehen. Nach der Installation von TYPO3 existiert im Backend bereits ein Workspace: der “LIVE-Workspace”.

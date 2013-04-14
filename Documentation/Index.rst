@@ -19,18 +19,11 @@ TYPO3 Workspaces
 :License:         `CC BY-SA 3.0 <http://creativecommons.org/licenses/by-sa/3.0/>`_
 :Rendered:        |today|
 
-
-
-
-.. this link to a sitemap is very convenient as long as there isn't an
-   automatic sitemap in the documentation layout
    
    
    
 Inhaltsverzeichnis
 ==================
-
-Next pages:
 
 .. toctree::
    :maxdepth: 5

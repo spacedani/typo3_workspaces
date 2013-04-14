@@ -6,12 +6,8 @@
 .. include:: ../Includes.txt
 
 =========================
-Chapter 3
+Configuration
 =========================
-
-Your text.
-
-Next pages:
 
 .. toctree::
    :maxdepth: 5

@@ -8,7 +8,7 @@
 .. _start:
 
 ========================================================================
-TYPO3 Documentation Starter  <- Change this to your title!
+TYPO3 Workspaces
 ========================================================================
 
 :Author:          Danijela Grgic <spacedani@gmail.com>
@@ -96,8 +96,8 @@ Next pages:
    :glob:
    :titlesonly:
    
-   Chapter1/Index
-   Chapter2/Index
+   Chapter1Introduction/Index
+   Chapter2Installation/Index
    Chapter3/Index
    Quickstart/Index
    FinalPages/*

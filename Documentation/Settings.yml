@@ -28,6 +28,6 @@ conf.py:
   copyright: 2013 to now
   project: TYPO3 documentation
   version: 0.0
-  release: 0.0.0
+  release: 0.0.1
 
 ...

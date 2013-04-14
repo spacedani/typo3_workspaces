@@ -25,13 +25,25 @@ TYPO3 Workspaces
 .. this link to a sitemap is very convenient as long as there isn't an
    automatic sitemap in the documentation layout
    
-Sitemap
-=======
+   
+   
+Inhaltsverzeichnis
+==================
 
+Next pages:
+
+.. toctree::
+   :maxdepth: 5
+   :glob:
+   :titlesonly:
+   
+   Chapter1Introduction/Index
+   Chapter2Installation/Index
+   Chapter3Config/Index
+   Chapter4/Index
+   FinalPages/*
+   
 :ref:`Sitemap <sitemap>`
-
-((This "Sitemap" chapter is just a model. Keep it, change it, 
-or remove it - as you like.))
 
 
 
@@ -77,22 +89,3 @@ The sources of this draft are located at
 ((This "Sources" chapter is just a model. Keep it, change it, 
 or remove it - as you like.))
 
-
-
-Inhaltsverzeichnis
-==================
-
-Next pages:
-
-.. toctree::
-   :maxdepth: 5
-   :glob:
-   :titlesonly:
-   
-   Chapter1Introduction/Index
-   Chapter2Installation/Index
-   Chapter3/Index
-   Quickstart/Index
-   FinalPages/*
-   
-:ref:`Sitemap <sitemap>`

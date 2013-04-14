@@ -30,9 +30,9 @@ Inhaltsverzeichnis
    :glob:
    :titlesonly:
    
-   Chapter1Introduction/Index
-   Chapter2Installation/Index
-   Chapter3Config/Index
+   Chapter1/Index
+   Chapter2/Index
+   Chapter3/Index
    Chapter4/Index
    FinalPages/*
    

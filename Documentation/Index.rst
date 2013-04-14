@@ -13,7 +13,7 @@ TYPO3 Workspaces
 
 :Author:          Danijela Grgic <spacedani@gmail.com>
 :Buildinfo:       `Make folder <_make>`_ (if on docs.typo3.org)
-:Copyright:       2013 ...
+:Copyright:       2013/04/14
 :Description:     This is the documentation for TYPO3 workspaces for TYPO3 v4.x
 :Email:           ...
 :License:         `CC BY-SA 3.0 <http://creativecommons.org/licenses/by-sa/3.0/>`_

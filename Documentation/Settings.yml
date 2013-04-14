@@ -26,7 +26,7 @@ conf.py:
   # Sphinx likes to see meaningful values for copyright, project,
   # version and release in several places
   copyright: 2013 to now
-  project: TYPO3 documentation
+  project: TYPO3 workspaces documentation
   version: 0.0
   release: 0.0.1
 

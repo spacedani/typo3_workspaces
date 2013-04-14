@@ -3,10 +3,21 @@
 .. --------------------------------------------------
 .. -*- coding: utf-8 -*- with BOM.  Check: ÄÖÜäöüß
 
-.. include:: ../../../Includes.txt
+.. include:: ../Includes.txt
 
 =========================
-Topic A
+Chapter 2
 =========================
 
 Your text.
+
+Next pages:
+
+.. toctree::
+   :maxdepth: 5
+   :glob:
+   :titlesonly:
+
+
+
+:ref:`Sitemap <sitemap>`   

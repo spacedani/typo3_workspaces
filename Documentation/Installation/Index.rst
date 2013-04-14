@@ -18,6 +18,7 @@ Next pages:
    :glob:
    :titlesonly:
 
+*
 
 
 :ref:`Sitemap <sitemap>`   

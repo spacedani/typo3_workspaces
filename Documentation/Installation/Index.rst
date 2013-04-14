@@ -14,7 +14,7 @@ Installation
    :glob:
    :titlesonly:
 
-*
-
+   *
+   SubChapter/Index
 
 :ref:`Sitemap <sitemap>`   
